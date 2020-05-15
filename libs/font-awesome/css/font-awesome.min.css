@@ -27,6 +27,14 @@
     color: #f1e3cb;
 }
 
+.fa-github {
+    color: #fff;
+}
+
+.fa-github:hover {
+    color: #f1e3cb;
+}
+
 .fa-envelope {
     color: #fff;
 }
